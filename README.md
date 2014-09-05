@@ -13,13 +13,13 @@ Used Folder Structure
 ---------------------
 
 /- Script Library
- -- beeye (Vendor)
- --- org
- ---- calendar
- ---- filesystem
- ---- web 
+/-- beeye (Vendor)
+/--- org
+/---- calendar
+/---- filesystem
+/---- web 
 
 /- tools
- -- admin
- --- 00 Project Setup
- --- AA Daily Helpers
+/-- admin
+/--- 00 Project Setup
+/--- AA Daily Helpers
